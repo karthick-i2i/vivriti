@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "itemCode": "ITM1",
+    "itemName": "Mi Tv",
+    "price": 20000,
+    "quantity": 10,
+    "discount": 5,
+    "category": "electronics"
+  },
+  {
+    "id": 2,
+    "itemCode": "ITM2",
+    "itemName": "Samsung Tv",
+    "price": 40000,
+    "quantity": 10,
+    "discount": 0,
+    "category": "electronics"
+  },
+  {
+    "id": 3,
+    "itemCode": "ITM3",
+    "itemName": "Sony Tv",
+    "price": 45000,
+    "quantity": 10,
+    "discount": 0,
+    "category": "electronics"
+  },
+  {
+    "id": 4,
+    "itemCode": "ITM4",
+    "itemName": "Sofa set 4 seater",
+    "price": 20000,
+    "quantity": 10,
+    "discount": 0,
+    "category": "furnitures"
+  },
+  {
+    "id": 5,
+    "itemCode": "ITM5",
+    "itemName": "Dining Table 4 seater",
+    "price": 15000,
+    "quantity": 10,
+    "discount": 0,
+    "category": "furnitures"
+  },
+  {
+    "id": 6,
+    "itemCode": "ITM6",
+    "itemName": "Chairs",
+    "price": 2000,
+    "quantity": 10,
+    "discount": 0,
+    "category": "furnitures"
+  }
+]
